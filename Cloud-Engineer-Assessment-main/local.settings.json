@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobStorage": "UseDevelopmentStorage=true",
+    "FUNCTION_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "COUNTRIES_API_URL": {
+    "COUNTRIES_API_URL": "https://restcountries.com/"
+  }
+}

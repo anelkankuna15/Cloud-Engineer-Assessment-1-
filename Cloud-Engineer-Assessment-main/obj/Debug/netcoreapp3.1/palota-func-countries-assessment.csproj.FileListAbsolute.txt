@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Cloud-Engineer-Assessment-main\obj\Debug\netcoreapp3.1\palota-func-countries-assessment.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cloud-Engineer-Assessment-main\obj\Debug\netcoreapp3.1\palota-func-countries-assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cloud-Engineer-Assessment-main\obj\Debug\netcoreapp3.1\palota-func-countries-assessment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cloud-Engineer-Assessment-main\obj\Debug\netcoreapp3.1\palota-func-countries-assessment.AssemblyInfo.cs
+C:\Users\User\Desktop\Cloud-Engineer-Assessment-main\obj\Debug\netcoreapp3.1\palota-func-countries-assessment.csproj.CoreCompileInputs.cache
